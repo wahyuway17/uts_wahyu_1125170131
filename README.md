@@ -1,16 +1,11 @@
 # flutter_firebase_auth
 
-A new Flutter project.
+### Dashboard
+![Cart](image/dashboard.jpeg)
 
-## Getting Started
+### Login
+![Cart](image/login.jpeg)
 
-This project is a starting point for a Flutter application.
+### Register
+![Cart](image/register.jpeg)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
